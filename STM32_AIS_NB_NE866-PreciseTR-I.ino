@@ -26,7 +26,6 @@ void postTransmission()
   digitalWrite(MAX485_DE, 0);
 }
 
-
 float reform_uint16_2_float32(uint16_t u1, uint16_t u2)
 {  
   uint32_t num = ((uint32_t)u1 & 0xFFFF) << 16 | ((uint32_t)u2 & 0xFFFF);
