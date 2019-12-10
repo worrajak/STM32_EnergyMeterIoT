@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <ModbusMaster.h>
 
-String serverIP = "34.92.53.75"; // Your Server IP
+String serverIP = "34.92.xx.xx"; // Your Server IP
 String serverPort = "2110"; // Your Server Port
 
 
