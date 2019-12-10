@@ -67,7 +67,7 @@ int timezone = 7;
 int dst = 0;
 
 String apnName = "devkit.nb";
-String serverIP = "34.87.25.25"; // Your Server IP
+String serverIP = "34.87.xx.xx"; // Your Server IP
 String serverPort = "2232"; // Your Server Port
 
 String udpData = "HelloWorld";
