@@ -1,5 +1,5 @@
 # STM32_EnergyMeterIoT
 
-STM32F103C8 -> SDM120 Energy Meter via Modbus protocol 
+STM32F103C8 -> Energy Meter via Modbus protocol 
 
-![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/images.jpeg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_EnergyMeterIoT/blob/master/uCCC086.jpg?raw=true)
